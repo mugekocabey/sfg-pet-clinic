@@ -3,11 +3,12 @@
     <parent>
         <artifactId>sfg-pet-clinic</artifactId>
         <groupId>com.example</groupId>
-        <version>0.0.3</version>
+        <version>0.0.4</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>pet-clinic-data</artifactId>
+  <version>0.0.3</version>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -59,6 +60,6 @@
 
 
   <scm>
-    <tag>sfg-pet-clinic-0.0.3</tag>
+    <tag>sfg-pet-clinic-0.0.4</tag>
   </scm>
 </project>

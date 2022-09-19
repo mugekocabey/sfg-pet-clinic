@@ -49,8 +49,12 @@
 					<goals>install</goals>
 				</configuration>
 			</plugin>
-		</plugins>
+       </plugins>
+
+
+
 	</build>
+
 
 
 
